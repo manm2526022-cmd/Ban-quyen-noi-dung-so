@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Nếu bạn sử dụng mã nguồn hoặc dữ liệu từ dự án này cho nghiên cứu, vui lòng trích dẫn theo thông tin bên dưới."
 authors:
-  - family-names: "Nguyễn"
+  - family-names: "Châu"
     given-names: "Văn A"
 title: "Vietnamese Sentiment Analysis using PhoBERT"
 version: 1.0.0
